@@ -10,4 +10,4 @@ Cricket Notifier - Your goto cricket scores application for the latest scores in
 - TKinter
 - BeautifulSoup (`pip install bs4`)
 - urllib.request
-- plyer (pip install plyer)
+- plyer (`pip install plyer`)
